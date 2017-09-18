@@ -1,7 +1,7 @@
 scalaVersion := "2.12.3"
 
-name := "myproject"
-organization := "myorg"
+name := "$name$"
+organization := "com.myorg"
 version := "0.0.1"
 
 libraryDependencies ++= Seq(
